@@ -3,8 +3,11 @@
 This project has the following features:
 
 1.Dismiss keyboard when typing it outside textfield
+
 2.Push the view little up whenever keyboard hides the textfield
+
 3.Put back the view when keyboard disappears
+
 4.Text suggestions while typing in
 
 Demo of the app
